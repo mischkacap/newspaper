@@ -1,0 +1,14 @@
+
+header {text-align: center;}
+li {display: inline;
+ text-align: center;
+color: black;}
+
+a:link { text-decoration: none;
+    color: black;}
+
+ body {font-family: 'Playfair Display', serif;
+font-family: 'Lora', serif;}
+
+h2{text-align: center;
+	font-size: 10px ;}
